@@ -1,5 +1,5 @@
 # blockchain-example
-A simple C++ blockchain example using a simple proof of work POW scheme.
+A simple C++ blockchain example using a proof of work (POW) scheme.
 
 # dependencies
 -   c++ compiler
@@ -13,8 +13,8 @@ A simple C++ blockchain example using a simple proof of work POW scheme.
 
 `./prog difficulty blocks`
 
-difficulty = the number of leading zeros in the SHA256 hash.
-blocks = number of blocks to create with proof of work.
+- difficulty: number of leading zeros in the SHA256 hash.
+- blocks: number of blocks to create with proof of work.
 
 
 # example execution
